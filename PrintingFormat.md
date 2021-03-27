@@ -1,3 +1,3 @@
-https://docs.erpnext.com/docs/user/manual/en/setting-up/print/print-format-builder
+[Print Format Builder](https://docs.erpnext.com/docs/user/manual/en/setting-up/print/print-format-builder)
 
-To make Customized print format, we can you Format Builder.
+To make Customized print format, we can use Format Builder.
